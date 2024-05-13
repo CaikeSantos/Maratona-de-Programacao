@@ -1,4 +1,6 @@
-<img width=100% src="https://github.com/CaikeSantos/Maratona-de-Programacao/assets/84350582/e93319a8-52cd-4f48-bbcd-39f80702447d">
+<div style="text-align: center;">
+    <img width=50% src="https://github.com/CaikeSantos/Maratona-de-Programacao/assets/84350582/e93319a8-52cd-4f48-bbcd-39f80702447d">
+</div>
 <h1>Maratona de Programação</h1>
 <p>The Programming Marathon is a UFSCar project aimed at training and preparing students for competitive programming competitions</p>
 
